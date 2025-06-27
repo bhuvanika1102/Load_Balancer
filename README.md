@@ -4,20 +4,15 @@
 
 This project is a **TCP-based Load Balancer** developed as part of the **19AD551 – Computer Networking Laboratory**. It is designed to distribute incoming network traffic efficiently across multiple backend servers using **sockets** and **multithreading**. This ensures high availability, reliability, and better resource utilization.
 
-## 👩‍💻 Team Members
-
-- **Bhuvanika S** - [GitHub](https://github.com/bhuvanika1102)
-- **Rajakumari S**
-- **Suji S**
 
 ## 🚀 Features
 
-- ⚖️ Load balancing across multiple backend servers
-- 🔄 Dynamic load handling using multithreading
-- 🏗️ Simple TCP socket-based communication
-- 🧠 Server selection based on current load
-- 💡 Supports basic load balancing strategies
-- 🛡️ Fault-tolerant with health check simulation
+-  Load balancing across multiple backend servers
+-  Dynamic load handling using multithreading
+-  Simple TCP socket-based communication
+-  Server selection based on current load
+-  Supports basic load balancing strategies
+-  Fault-tolerant with health check simulation
 
 ## 🛠️ Technologies Used
 
